@@ -48,7 +48,7 @@
     "coveralls": "^2.11.4",
     "eslint": "^3.1.0",
     "istanbul": "^0.4.0",
-    "jscs": "^3.0.0",
+    "jscs": "^2.11.0",
     "json": "^9.0.4",
     "mkdirp": "^0.5.1",
     "mocha": "^2.3.3",
@@ -70,6 +70,7 @@
     "restify-errors": "^3.1.0",
     "semver": "^5.0.1",
     "tunnel-agent": "^0.4.0",
-    "uuid": "^3.0.1"
+    "uuid": "^3.0.1",
+    "verror": "^1.9.0"
   }
 }
